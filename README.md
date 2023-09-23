@@ -4,9 +4,12 @@
 
 ##GIST 也一样
 
-git add .
+    git add .
+    git commit -m "update"
+    git push
 
-git commit -m "your-description"
 
-git push
+
+
+
 
